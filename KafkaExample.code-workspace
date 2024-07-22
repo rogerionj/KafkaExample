@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "producerkafka",
+			"path": "producerkafka"
+		},
+		{
+			"name": "consumerkafka01",
+			"path": "consumerkafka01"
+		},
+		{
+			"name": "consumerkafka02",
+			"path": "consumerkafka02"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
